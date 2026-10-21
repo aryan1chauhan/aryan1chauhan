@@ -121,7 +121,7 @@ class AryanChauhan:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryan1chauhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%">
+  <img src="https://raw.githubusercontent.com/aryan1chauhan/aryan1chauhan/main/assets/streak.svg" alt="GitHub Streak" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan1chauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="49%">
 </p>
 
