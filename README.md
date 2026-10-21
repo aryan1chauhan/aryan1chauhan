@@ -115,12 +115,14 @@ class AryanChauhan:
 ## 📊 Activity & Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan1chauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan1chauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170">
+  <img src="https://img.shields.io/badge/Total%20Contributions-2%2C788%2B-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions">
+  <img src="https://img.shields.io/badge/Current%20Streak-100%20Days%20Unbroken%20%F0%9F%94%A5-FF6B6B?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+  <img src="https://img.shields.io/badge/Engineering%20Rhythm-Daily%20Commits-2EA043?style=for-the-badge&logo=git&logoColor=white" alt="Rhythm">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan1chauhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=aryan1chauhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan1chauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="49%">
 </p>
 
 ---
@@ -128,8 +130,14 @@ class AryanChauhan:
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="mailto:chauhanaryan2935@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chauhanaryan2935%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://github.com/aryan1chauhan">
     <img src="https://img.shields.io/badge/GitHub-aryan1chauhan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://github.com/aryan1chauhan?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-13%2B-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="Repositories">
   </a>
 </p>
 
@@ -140,5 +148,5 @@ class AryanChauhan:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="Footer Wave">
+  <sub>Built with precision • Aryan Chauhan • Roorkee, India</sub>
 </p>
