@@ -29,7 +29,8 @@ class AryanChauhan:
         self.key_work = [
             "SpeechLens (IIT Mandi) — Forced-alignment contrastive delivery scoring",
             "Disaster LLM Coordinator — Autonomous multi-agent crisis response simulation",
-            "SecondSelf — Self-organizing AI second brain with PARA & semantic graph"
+            "SecondSelf — Self-organizing AI second brain with PARA & semantic graph",
+            "MediRoute — Real-time emergency medical dispatch & routing engine"
         ]
     
     def mission(self):
@@ -39,6 +40,7 @@ class AryanChauhan:
 - 🎙️ **Speech & Audio AI:** Built **[SpeechLens](https://github.com/aryan1chauhan/IIT-MANDI)** (IIT Mandi Track C) using forced alignment (`torchaudio MMS_FA`) and normalized acoustic metrics to detect temporal flaws in verbal delivery.
 - 🤖 **Multi-Agent Simulation:** Engineered **[Disaster LLM Coordinator](https://github.com/aryan1chauhan/Hackathon2.2)** to benchmark autonomous LLM coordination against heuristic solvers in dynamic environments.
 - 🧠 **Personal Knowledge Systems:** Architecting **[SecondSelf](https://github.com/aryan1chauhan/PersonalAssistant)** — combining PARA categorization, embeddings, and dynamic graph traversal.
+- 🚑 **Smart Dispatch & Routing:** Engineered **[MediRoute](https://github.com/aryan1chauhan/Technomax)** — real-time emergency medical dispatch system with dynamic ETA prediction, patient stability evaluation, and WebSocket hospital tracking.
 - 🔬 **Active Research & Experimentation:** Deeply invested in agent meta-harnesses (`ruflo`), vectorless reasoning RAG (`PageIndex`), safe execution sandboxes (`OpenShell`), and learning memory (`hindsight`).
 
 ---
@@ -99,13 +101,13 @@ class AryanChauhan:
       <p><b>Autonomous personal knowledge management system.</b> Ingests unorganized notes/links/files, applies AI-driven PARA classification, generates vector embeddings, auto-links conceptual neighbors into an interactive visual graph, and answers queries via contextual RAG.</p>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ Workspace Core & Tooling</h3>
+      <h3 align="center">🚑 MediRoute — Emergency Dispatch</h3>
       <p align="center">
-        <a href="https://github.com/aryan1chauhan/workspace-core">
+        <a href="https://github.com/aryan1chauhan/Technomax">
           <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
         </a>
       </p>
-      <p><b>Internal developer tooling & agent runtime infrastructure.</b> Custom event dispatchers, automated workflows, asynchronous task pipelines, and workspace performance utilities supporting high-velocity engineering.</p>
+      <p><b>Smart real-time emergency medical dispatch & hospital routing system.</b> Evaluates live patient stability and hospital capability matrices, computing dynamic traffic-aware ETAs via WebSockets and ORS to optimize ambulance dispatch and minimize critical transport latency.</p>
     </td>
   </tr>
 </table>
@@ -137,7 +139,7 @@ class AryanChauhan:
     <img src="https://img.shields.io/badge/GitHub-aryan1chauhan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://github.com/aryan1chauhan?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-13%2B-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="Repositories">
+    <img src="https://img.shields.io/badge/Repositories-Public-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="Repositories">
   </a>
 </p>
 
